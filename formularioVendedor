@@ -1,0 +1,6 @@
+<form action="controllerProduto.php" method="POST">
+	<label>Nome:</label><input type="text" name="nome">
+	<label>email:</label><input type="email" name="email">
+	<label>Salário fixo:</label><input type="text" name="salarioFixo">
+	<input type="submit" value="Gravar">
+</form>
